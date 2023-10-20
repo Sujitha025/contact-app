@@ -2,12 +2,12 @@
   "contacts": [
     {
       "id": "c8ea4e48-3781-4108-a3df-3b1c8a70944c",
-      "name": "sujitha",
+      "name": "hello",
       "email": "asd@gmail.com"
     },
     {
       "id": "8e47c28b-0930-4770-b6cb-fed3e9f11b4a",
-      "name": "vijay",
+      "name": "bye",
       "email": "adf@gmail.com"
     },
     {
@@ -23,12 +23,12 @@
     {
       "id": "9da893db-52ee-4de2-b6e7-019b5997efa9",
       "name": "max",
-      "email": "120cs0017@iiitk.ac.in"
+      "email": "lolo@gmail.com"
     },
     {
       "id": "2847af67-0687-4896-99d8-2ba2efaace90",
       "name": "jojo",
-      "email": "psnc1111@gmail.com"
+      "email": "jojo@gmail.com"
     }
   ]
 }
